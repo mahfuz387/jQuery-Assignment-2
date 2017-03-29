@@ -1,0 +1,128 @@
+ .weather-box{
+        top: 50%;
+        left: 50%;
+        border: 2px solid;
+        padding: 40px;
+        background: #fff;
+}
+.weather-box button{
+   margin-top:20px;
+
+       }
+  body{
+  margin: 0;
+  padding: 0;
+}
+#wrapper{
+  
+}
+#sign_up{
+  
+  background-color: gray;
+}
+.heading_text{
+  margin-top: 15px;
+  bottom: 10px;
+  background-color: #fff;
+}
+.heading_text h2{
+  padding: 15px;
+  font-weight: bold;
+  font-size: 24px;
+  text-align: center;
+  color: #fff;
+}
+.alert{
+  border: 1px solid blue;
+  background-color: #fff;
+}
+#ui_name{
+  padding: 10px;
+}
+#ui_name li{
+  display: inline-block;
+
+  margin: 10px;
+  padding: 10px;
+  color: black;
+}
+input{
+  width: 300px;
+  margin: 5px;
+  padding: 5px;
+}
+label{
+  margin: 5px;
+}
+#smsemail{
+  text-align:center;
+  color: red;
+  font-size: 18px;
+}
+
+
+ .form-control[disabled], .form-control[readonly]{background: gray;}
+
+#jquery-section{
+  background-color: #ffdd99;
+   padding: 120PX 0;
+   text-align: center;
+   min-height: 100vh;
+
+
+  }
+
+
+
+.jquery{
+  text-align: center;
+  font-family:'TitilliumWeb regular',sans-serif;
+  
+}
+
+
+.jquery h2 {
+  color: #3c4761;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 35px;
+  font-family:'Titillium Web Bold',sans-serif; 
+}
+
+.jquery-list button{
+  text-align: center;
+  margin-bottom: 62px;
+}
+
+.jquery-list button{
+  
+  display: inline-block;
+  float: none;
+}
+.jquery-list button{
+   background: #ebc985;
+  color:3c4761;
+  text-transform: uppercase;
+ 
+}
+.jquery-list button:hover{
+
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover,.jquery-list button:hover {
+    color: #3c4761;
+    background-color: #ffffff;
+}
+.jquery{
+  margin-bottom: 32px;
+}
+.jquery h2{
+ font-size: 12px;
+ margin-top: 16px;
+ color: #b09b73;
+ font-family:'Titillium Web regular',sans-serif;
+}
+
+
